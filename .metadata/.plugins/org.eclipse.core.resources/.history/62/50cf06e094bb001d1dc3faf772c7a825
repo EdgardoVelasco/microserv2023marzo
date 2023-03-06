@@ -1,0 +1,5 @@
+package com.netec.service;
+
+public interface IArticuloService {
+
+}
